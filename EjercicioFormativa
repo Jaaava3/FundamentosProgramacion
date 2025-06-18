@@ -1,4 +1,4 @@
-El Departamento de Turismo de Chile ha solicitado un sistema para procesar y analizar datos 
+'''El Departamento de Turismo de Chile ha solicitado un sistema para procesar y analizar datos 
 de turistas que ingresan al país. Los datos se almacenan en un diccionario donde cada llave 
 es un identificador y el valor una lista con los datos del turista. Los datos son: Nombre, País 
 de origen y fecha de ingreso a Chile. Un ejemplo del diccionario es como el siguiente, pero 
@@ -110,4 +110,4 @@ MENU PRINCIPAL
 3.- Eliminar turista. 
 4.- Salir. 
 Ingrese opción: 4 
-Programa terminado...
+Programa terminado...'''
